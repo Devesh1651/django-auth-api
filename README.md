@@ -145,8 +145,7 @@ python manage.py test
 ---
 
 ## 📌 Future Improvements
-
-- Docker setup (Django + Redis)  
+ 
 - PostgreSQL integration for production  
 - Role-based permissions (`user_type`)  
 - Deployment on cloud (Heroku/AWS/Render)  
