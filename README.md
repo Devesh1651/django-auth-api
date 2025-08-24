@@ -1,11 +1,11 @@
-# 🚀 Django Auth API
+#  Django Auth API
 
 A **JWT Authentication API with Email OTP Verification** built using **Django REST Framework**.  
 This project provides a complete authentication system with OTP-based verification, password reset, secure JWT login/logout, and interactive API documentation.
 
 ---
 
-## ✨ Features
+##  Features
 
 - 🔑 **JWT Authentication** (Access & Refresh tokens)  
 - 📧 **Email OTP Verification** during registration & password reset  
@@ -134,7 +134,7 @@ python manage.py test
 
 ---
 
-## 🤝 Resume Highlights
+##  Resume Highlights
 
 - Designed & implemented a **secure authentication system** with OTP-based email verification.  
 - Built **Swagger API Docs** for professional API documentation.  
@@ -152,5 +152,5 @@ python manage.py test
 
 ---
 
-👨‍💻 **Author**: Devesh Nahar  
+ **Author**: Devesh Nahar  
 🔗 GitHub: [Devesh1651](https://github.com/Devesh1651)
